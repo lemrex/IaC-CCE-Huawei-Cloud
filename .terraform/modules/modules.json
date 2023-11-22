@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"cce","Source":"./modules/cce","Dir":"modules/cce"},{"Key":"cce.subnet","Source":"./modules/subnet","Dir":""},{"Key":"cce.vpc","Source":"./modules/vpc","Dir":""},{"Key":"subnet","Source":"./modules/subnet","Dir":"modules/subnet"},{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"cce","Source":"./modules/cce","Dir":"modules/cce"},{"Key":"subnet","Source":"./modules/subnet","Dir":"modules/subnet"},{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"}]}

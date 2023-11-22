@@ -20,6 +20,6 @@ variable "cluster_os" {
   description = "os image for nodes"
 }
 
-variable "node_name"{
+/*variable "node_name"{
   description = "node pool name"
-}
+}*/
